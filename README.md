@@ -23,9 +23,12 @@
 ##
 <h3 align="left">Certificates</h3>
 <p align="left">
-<img src="./scrum-foundation-professional-certificate-daniel-lugo.png" alt="bagde" width="200" margin-right="5" />
-<p> - </p>
-<img src="./FrontEndReact.png" alt="bagde" width="200" />
+  
+<p align="center"> 
+  <img src="./scrum-foundation-professional-certificate-daniel-lugo.png" alt="bagde" width="200" margin-right="5" />
+  <img src="./FrontEndReact.png" alt="bagde" width="200" />
+</p>
+
 
 ##
 
