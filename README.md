@@ -17,13 +17,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/daniel-lugo-roberty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-lugo-a2a206220" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-lugo-roberty" target="blank"><img align="space-evenly" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-lugo-a2a206220" height="30" width="40" /></a>
 </p>
 
 ##
 <h3 align="left">Certificates</h3>
 <p align="left">
-<img src="./scrum-foundation-professional-certificate-daniel-lugo.png" alt="bagde" width="200" />
+<img src="./scrum-foundation-professional-certificate-daniel-lugo.png" alt="bagde" width="200" margin-right="5" />
 <img src="./FrontEndReact.png" alt="bagde" width="200" />
 
 ##
