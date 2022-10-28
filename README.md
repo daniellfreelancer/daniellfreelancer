@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniellfreelancer" alt="daniellfreelancer" /></a> </p>
 
-- 🔭 I’m currently working like voluntary on **Fundacion Retorno a la Libertad**
+- 🔭 I’m currently working on **Fundacion Retorno a la Libertad**
 
 - 🌱 I’m currently learning **Spring Boot and AWS**
 
@@ -19,6 +19,10 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/daniel-lugo-roberty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-lugo-a2a206220" height="30" width="40" /></a>
 </p>
+
+##
+Certificates
+<img src="./scrum-foundation-professional-certificate-daniel-lugo.png" alt="bagde" />
 
 ##
 
