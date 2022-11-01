@@ -25,8 +25,10 @@
 <p align="left">
   
 <p align="center"> 
-  <img src="./scrum-foundation-professional-certificate-daniel-lugo.png" alt="bagde" width="200" margin-right="5" />
+  <img src="./bootcamp-desarrollador-web-full-stack-mern-mobile-apps.png" alt="bagde" width="200" />
   <img src="./FrontEndReact.png" alt="bagde" width="200" />
+  <img src="./scrum-foundation-professional-certificate-daniel-lugo.png" alt="bagde" width="200" margin-right="5" />
+  <img src="./lifelong-learning.png" alt="bagde" width="200" />
 </p>
 
 
