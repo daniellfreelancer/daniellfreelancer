@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Fundacion Retorno a la Libertad**
 
-- 🌱 I’m currently learning **Spring Boot and AWS**
+- 🌱 I’m currently learning **Angular . Spring Boot and AWS**
 
 - 👯 I’m looking to collaborate on **new projects**
 
